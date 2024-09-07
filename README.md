@@ -22,7 +22,7 @@ __Вводное занятие (07.09.2024).__
 
 Анкета для перезачета вступительного теста: [анкета](https://forms.gle/VLf7GxGtbME9T5437)
 
-Тестирование по python: [ссылка на контест](https://contest.yandex.ru/contest)
+Тестирование по python: [ссылка на контест](https://contest.yandex.ru/contest/45644/enter/)
 
 __Занятие 1 (14.09.2024).__
 

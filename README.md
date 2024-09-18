@@ -26,6 +26,11 @@ __Вводное занятие (07.09.2024).__
 
 __Занятие 1 (14.09.2024). DOM дерево. Requests.__
 
+*[презентация по DOM](https://github.com/Bakibak/cryptoDS/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/1.%20DOM%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%20HTML.pdf)
+*[презентация 1 по Requests](https://github.com/Bakibak/cryptoDS/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/2.1.%20Requests.pdf), 
+[презентация 2 по Requests](https://github.com/Bakibak/cryptoDS/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/2.2.%20Requests.pdf),
+[презентация 3 по Requests](https://github.com/Bakibak/cryptoDS/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/2.3.%20Requests.pdf)
+
 __Занятие 2 (21.09.2024). BeautifulSoup.__
 
 __Занятие 3-4 (28.09.2024). Selenium.__

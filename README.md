@@ -46,6 +46,7 @@ __Занятие 3-4 (28.09.2024). Selenium.__
 
 * [Презентация по Selenium](https://github.com/Bakibak/cryptoDS/blob/main/Презентации/4.%20Selenium.pdf)
 * [Условия задач по Selenium](https://github.com/Bakibak/cryptoDS/blob/main/Практика/Задачи%20по%20Selenium.pdf)
+* [Решения задач по Selenium](https://github.com/Bakibak/cryptoDS/blob/main/Практика/Selenium.ipynb)
 
 __Занятие 5 (12.10.2024). Telethon.__
 

@@ -54,4 +54,4 @@ __Занятие 5 (12.10.2024). Telethon.__
 
 Выберите криптовалюту и сайт для парсинга. Впишите их напротив ФИО в [__ведомости__](https://docs.google.com/spreadsheets/d/1tO1DFO9jWD3aA2TlmVm6v2GLN02-NqEyb9KLnYn7Dak/edit?usp=sharing). Внимание! Связки "криптовалюта-сайт" не должны повторяться между студентами.
 
-[Условие ДЗ](https://github.com/Bakibak/cryptoDS/blob/main/Условие%20ДЗ1.pdf) ___upd.___ 29.09.24 17:00
+[Условие ДЗ](https://github.com/Bakibak/cryptoDS/blob/main/Условие%20ДЗ1.pdf)     ___upd.___ 29.09.24 17:00
